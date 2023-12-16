@@ -1,0 +1,128 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Anton&family=Ephesis&family=Kings&family=Open+Sans:wght@300&family=Pacifico&family=Teko:wght@300&display=swap');
+  
+  @import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Ephesis&family=Kings&family=Open+Sans:wght@300&family=Pacifico&family=Teko:wght@300&display=swap');
+
+
+#searchBar{
+    width: 400px;
+    height: 40px;
+    padding: 5px 10px;
+    border: 3px solid;
+    border-radius: 20px;
+    outline: color black;
+    margin-left: 422px;
+    
+}
+#g1{
+    margin-left: 418px;
+
+}
+#f1{
+    margin-left: 20px;
+
+}
+#b1{
+    margin-left: 20px;
+
+}
+h1{
+font-family: 'Kings', cursive;
+color: orange;
+
+}
+a{
+    color: black;
+    text-decoration: none;
+    margin-left: 200px;
+
+
+}
+hr{
+    border: 3px solid;
+}
+.j1{
+    height: 400px;
+    width: 100%;
+    background-color: black;
+background-image: url(./images/1144235.jpg)
+ }
+ h2{
+    text-decoration: underline;
+ }
+
+.row{
+     background-color:white;
+    
+    margin-top: 100px;
+    display: flex;
+    
+    justify-content: space-evenly; 
+   
+      align-items: center;  
+ 
+ flex-wrap: wrap;
+}
+.col{
+    border:2px  yellow solid;
+    height: 300px;
+    width: 300px; 
+margin: 50px ;
+background-size: cover;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+}
+.col-1{
+  background-image: url(./images/f1.jpg);
+
+}
+.col-2{
+    background-image: url(./images/f2.jpg);
+  }
+  .col-3{
+    background-image: url(./images/f3.jpg);
+  }
+  .col-4{
+    background-image: url(./images/f4.jpg);
+  }
+ 
+  .col-5{
+    background-image: url(./images/d1.jpg);
+  
+  }
+  .col-6{
+      background-image: url(./images/d2.jpg);
+    }
+    .col-7{
+      background-image: url(./images/d3.jpg);
+    }
+    .col-8{
+      background-image: url(./images/d4.jpg);
+    }
+    
+  
+h2{
+    text-align: center;
+    font-size:100px;
+}
+.flex{
+    margin: 50px;
+    flex-wrap:wrap;
+}
+.tag{
+    flex-wrap: wrap;
+}
+P{
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 40px;
+    margin-top: 122px;
+    margin-bottom: 50px;
+
+    
+}
+p :hover{
+    color: brown;
+}
+

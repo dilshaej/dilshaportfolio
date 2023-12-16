@@ -1,0 +1,100 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=EB+Garamond&family=Ephesis&family=Kalnia:wght@100&family=Kings&family=Open+Sans:wght@300&family=Pacifico&family=Smooch&family=Teko:wght@300&display=swap');
+ 
+  @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+ 
+  @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Teko:wght@300&display=swap');
+ 
+  @import url('https://fonts.googleapis.com/css2?family=Rubik+Lines&display=swap');
+
+  
+  
+  @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+.j2{
+    margin-left: 600px;
+    
+}
+
+.nav-link{
+    font-size: 24px;
+}
+.u1{
+    font-family: 'Dancing Script', cursive;
+}
+.lg{
+    width: 100%;
+    border-radius: 100%;
+    
+}
+h2{
+    color: whitesmoke;
+}
+h4{
+    color: whitesmoke;
+}
+p{
+    color: whitesmoke;
+}
+span{
+    color: rgb(168, 27, 27);
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+}
+.nav1{
+    background-color:rgb(168, 27, 27) ;
+}
+.atag{
+    font-family: 'EB Garamond', serif;
+    text-decoration: none;
+
+
+
+}
+.atag:hover{
+    
+    text-decoration: overline underline;
+    text-decoration-color: burlywood;
+     margin-top: 3px;
+}
+.butt1{
+    background-color:rgb(168, 27, 27);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 30px;
+    cursor: pointer;
+  }
+  .butt1:hover{
+    background-color: rgb(168, 27, 27, 0.301);
+  }
+  
+  
+.he1{
+    color: white;
+    text-align: center;
+}
+.he2{
+    color: white;
+}
+.img2{
+    width: 100%;
+}
+.heh1{
+    font-family: 'Pacifico', cursive;
+}
+.heh1:hover{
+    color:rgb(168, 27, 27);
+}
+.cm1{
+    width: 75%;
+    height: 200px;
+}
+
+.card:hover{
+    box-shadow: 0 4px 8px 0 rgba(97, 10, 10, 0.945), 0 6px 20px 0 rgba(204, 9, 9, 0.938);
+    transform: scale(0.995)
+}
+
